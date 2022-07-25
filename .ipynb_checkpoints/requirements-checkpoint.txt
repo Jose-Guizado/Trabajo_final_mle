@@ -1,0 +1,7 @@
+# requirements
+pandas
+numpy
+xgboost>=1.5.2
+pickle
+matplotlib
+
